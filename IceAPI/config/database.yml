@@ -1,0 +1,9 @@
+development:
+  adapter: postgresql
+  encoding: unicode
+  pool: 5 # Definida por padrão
+  database: ice_cream_database
+  username: postgres
+  password: 1234
+  host: icecreamapi-postgres-1
+  port: 5432
